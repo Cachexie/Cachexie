@@ -1,6 +1,6 @@
   # Hello!
 
-- 👋 I’m a student studying in CS.Let's pursue knowledge and techniques on github.    
+- 👋 I’m a student studying in CS :)  
 - 📫 How to reach me:s753861942@outlook.com.
 
 <!---
